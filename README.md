@@ -14,7 +14,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=AquinoTS&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=AquinoTS&show_icons=true&theme=dracula" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=AquinoTS&show_icons=true&theme=dracula" />
  <img  height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AquinoTS&layout=compact&theme=dracula" />
   
 
