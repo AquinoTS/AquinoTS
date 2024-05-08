@@ -1,7 +1,7 @@
 ### Hi! I'm Thay
 
 - 🔭 I’m currently studying Computer Engineering
-- 🌱 I’m currently learning Java, JavaScript and React
+- 🌱 I’m currently learning Laravel, JavaScript and Electron
 
 <div>
 
